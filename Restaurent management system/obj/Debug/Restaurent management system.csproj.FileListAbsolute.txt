@@ -1,0 +1,11 @@
+G:\c#\Restaurent management system\Restaurent management system\bin\Debug\Restaurent management system.exe.config
+G:\c#\Restaurent management system\Restaurent management system\bin\Debug\Restaurent management system.exe
+G:\c#\Restaurent management system\Restaurent management system\bin\Debug\Restaurent management system.pdb
+G:\c#\Restaurent management system\Restaurent management system\obj\Debug\Restaurent_management_system.Create_Account.resources
+G:\c#\Restaurent management system\Restaurent management system\obj\Debug\Restaurent_management_system.Login.resources
+G:\c#\Restaurent management system\Restaurent management system\obj\Debug\Restaurent_management_system.Properties.Resources.resources
+G:\c#\Restaurent management system\Restaurent management system\obj\Debug\Restaurent management system.csproj.GenerateResource.Cache
+G:\c#\Restaurent management system\Restaurent management system\obj\Debug\Restaurent management system.exe
+G:\c#\Restaurent management system\Restaurent management system\obj\Debug\Restaurent management system.pdb
+G:\c#\Restaurent management system\Restaurent management system\obj\Debug\Restaurent_management_system.Protal.resources
+G:\c#\Restaurent management system\Restaurent management system\obj\Debug\Restaurent management system.csprojResolveAssemblyReference.cache
